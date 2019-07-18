@@ -1,10 +1,10 @@
 .PHONY: build
 
 develop:
-	gatsby develop
+	yarn develop
 
 build:
-	gatsby build
+	yarn build
 	rm -rf build/site && cp -r public build/site
 
 docker_build: build

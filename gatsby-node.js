@@ -239,7 +239,6 @@ exports.createPages = ({ graphql, actions }) => {
             title: `Series: ${series.title}`,
           })
         })
-
         createSeriesPage(createPage, posts, seriesInfo)
         createTagPages(createPage, posts)
         createYearPages(createPage, posts)
