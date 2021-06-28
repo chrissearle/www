@@ -31,7 +31,7 @@
     "mime-types": "2.1.27",
     "moment": "2.28.0",
     "moment-timezone": "0.5.31",
-    "prismjs": "1.21.0",
+    "prismjs": "1.24.0",
     "react": "16.13.1",
     "react-adsense": "0.1.0",
     "react-dom": "16.13.1",
